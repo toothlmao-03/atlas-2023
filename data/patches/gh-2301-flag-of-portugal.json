@@ -1,0 +1,87 @@
+{
+	"id": 46,
+	"name": "Flag of Portugal",
+	"description": "Portugal is a country in Southwestern Europe.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Portugal",
+			"https://en.wikipedia.org/wiki/Flag_of_Portugal"
+		],
+		"subreddit": [
+			"portugal"
+		],
+		"discord": [
+			"tugaplace"
+		]
+	},
+	"path": {
+		"7-16": [
+			[
+				302,
+				233
+			],
+			[
+				302,
+				265
+			],
+			[
+				385,
+				265
+			],
+			[
+				385,
+				233
+			]
+		],
+		"17-54": [
+			[
+				281,
+				204
+			],
+			[
+				281,
+				361
+			],
+			[
+				500,
+				361
+			],
+			[
+				500,
+				204
+			]
+		],
+		"55-197": [
+			[
+				281,
+				204
+			],
+			[
+				616,
+				204
+			],
+			[
+				616,
+				361
+			],
+			[
+				281,
+				361
+			]
+		]
+	},
+	"center": {
+		"7-16": [
+			344,
+			249
+		],
+		"17-54": [
+			391,
+			283
+		],
+		"55-197": [
+			449,
+			283
+		]
+	}
+}
