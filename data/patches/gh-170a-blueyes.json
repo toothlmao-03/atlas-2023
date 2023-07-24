@@ -1,0 +1,47 @@
+{
+	"id": 1329,
+	"name": "Blueyes",
+	"description": "Musical Artistic name of the portuguese youtuber and streamer Wuant",
+	"links": {
+		"website": [
+			"https://open.spotify.com/intl-pt/artist/4Ww83ftMVSTM4fdLka5lef"
+		],
+		"discord": [
+			"blueyes"
+		]
+	},
+	"path": {
+		"143-197": [
+			[
+				603,
+				415
+			],
+			[
+				602,
+				464
+			],
+			[
+				645,
+				464
+			],
+			[
+				644,
+				413
+			],
+			[
+				603,
+				414
+			],
+			[
+				600,
+				422
+			]
+		]
+	},
+	"center": {
+		"143-197": [
+			624,
+			435
+		]
+	}
+}
